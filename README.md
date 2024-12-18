@@ -1,22 +1,18 @@
-## Hi there 👋
+### Web Developer
+- 3년 차 주니어 웹 개발자
+- Spring Boot, Java를 주로 사용
+  
+### Interest
+- Payment System
+- E-Commerce
+- Optimizing Performance
+- Communication, Leadership, Cowork
+- How do I study consistently?
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://yoon-ssi.tistory.com/)](https://yoon-ssi.tistory.com/)
+<div align=center>
 	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/윤철-오-164394287/)](https://www.linkedin.com/in/윤철-오-164394287/)
-	
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://yoon-ssi.tistory.com/)](https://yoon-ssi.tistory.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/윤철-오-164394287/)](https://www.linkedin.com/in/윤철-오-164394287/) 
+<!--[![Notion Badge](https://img.shields.io/badge/-Notion-d14836?style=flat-square&logo=Notion&logoColor=white&link=https://uneven-euphonium-75c.notion.site/14f3f67393c680cd8eb1e24e7ef2e9a2)](https://uneven-euphonium-75c.notion.site/14f3f67393c680cd8eb1e24e7ef2e9a2)-->
 
-
-<!--
-**5YoonCheol/5YoonCheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
