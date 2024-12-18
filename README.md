@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://yoon-ssi.tistory.com/)]([https://yoon-ssi.tistory.com]/)
+	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/윤철-오-164394287/)](https://www.linkedin.com/in/윤철-오-164394287/)
+	
+
+
 <!--
 **5YoonCheol/5YoonCheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
