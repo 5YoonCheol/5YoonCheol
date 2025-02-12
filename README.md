@@ -1,5 +1,5 @@
 ### Web Developer
-- 3년 차 주니어 웹 개발자
+- 4년차 웹 개발자
 - Spring Boot, Java를 주로 사용
   
 ### Interest
