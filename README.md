@@ -5,6 +5,7 @@
 ### Interest
 - Payment System
 - E-Commerce
+- AI
 - Optimizing Performance
 - Communication, Leadership, Cowork
 - How do I study consistently?
