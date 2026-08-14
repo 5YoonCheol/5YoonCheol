@@ -1,6 +1,6 @@
 ### Web Developer
-- 4년차 웹 개발자
-- Spring Boot, Java를 주로 사용
+- 5년차 웹 개발자
+- Java, Spring Boot 기반 백엔드 개발 
   
 ### Interest
 - Payment System
