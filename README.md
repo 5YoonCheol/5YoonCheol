@@ -32,10 +32,9 @@ PG·카드사 연동 결제·정산 시스템을 설계·운영해 왔고, 지�
 - **Domain** — Payment · Settlement · Subscription · E-Commerce
 - **Engineering** — 장애 격리 설계, 상태 전이 모델링, 트랜잭션 정합성, Performance Optimization
 - **Process** — AI 에이전트 역할 분리 워크플로우 (구현 / 리뷰 / 검증)
-- **Growth** — Open Source Contribution, 꾸준히 공부하는 방법
+- **Growth** — 꾸준히 공부하는 방법
 
 ### 🚀 Now
-- AI 도구를 활용한 오픈소스 기여 실험 중 → 과정은 블로그에 기록
 - 개인 서비스 프로젝트 개발 중
 
 ### 📫 Links
